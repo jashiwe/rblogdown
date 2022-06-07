@@ -4,33 +4,24 @@ default_news_icon: file-text
 draft: false
 headless: true
 news_items:
-- date: "2023-11-20"
-  extra_text: August 2023.
-  text: I joined [The Coolest Startup in the World](https://goodluck.com) as the CEO
-- date: "2022-11-20"
-  extra_text: Software Engineering Daily Podcast, Feb. 2021.
-  link: https://https://feathericons.com//
-  text: How to deploy in the era of cloud services?
-- date: "2021-11-20"
-  extra_text: The New York Times, Feb. 2020.
-  link: https://https://feathericons.com//
-  text: Past, present and future of decentralized computing
-- date: "2020-11-20"
-  extra_text: Software Engineering Daily Podcast, Jan. 2020.
+- date: "2022-6-7"
+  extra_text: 2022年1-6月.
+  text:新冠疫情 应急协查专班
+- date: "2022-6-7"
+  extra_text:2021年8月-2022年1月
+  link: http://www.cdctj.com.cn/jgzc/hjyjk/
+  text: 环境健康与学校卫生研究所
+- date: "2022-6-7"
+  extra_text:2017年8月-2021年8月
+  link: http://www.tj.gov.cn/sy/tjxw/202106/t20210603_5468941.html
+  text: 结对帮扶困难村（宝坻区）
+- date: "2022-6-7"
+  extra_text: 2016年7月-2017年8月
   icon: youtube
-  link: /en/talks/how-to-give-a-communicative-research-talk/
-  text: How to give a communicative research talk?
-- date: "2020-11-20"
-  extra_text: Software Engineering Daily Podcast, Jan. 2020.
-  icon: youtube
-  link: https://https://feathericons.com//
-  text: The new era of software engineering
-- date: "2020-11-20"
-  extra_text: HotOS'19.
-  icon: youtube
-  link: https://https://feathericons.com//
-  text: How to write a good paper?
-num_news: 5
+  link: http://www.cdctj.com.cn/jgzc/hjyjk/
+  text: 环境与健康室 监测评价科
+
+num_news: 4
 show_news_icons: true
 title: news
 ---
