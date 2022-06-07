@@ -32,7 +32,6 @@ affiliations:
     name: 环境与学校卫生研究所
     title: 学校卫生科
 blog: true
-cv: cv.pdf
 date: "2020-10-20T17:51:47+03:30"
 draft: false
 full_name: 张 献伟
@@ -44,12 +43,8 @@ interests:
 - 王者荣耀
 profile_picture: profile.png
 socials:
-  facebook: YOUR_NAME
-  github: YOUR_NAME
+  github: https://github.com/jashiwe
   google_scholar: YOUR_NAME
-  linkedin: YOUR_NAME
-  twitch: YOUR_NAME
-  twitter: YOUR_NAME
 title: about
 ---
 
@@ -59,7 +54,7 @@ title: about
 
 2016-2021 天津CDC 环境与健康室监测评价科，空气污染与人群健康。期间于宝坻区结对帮扶近4年。
 
-2021至今  儿童青少年健康，学生常见病监测，未成年人近视防控。
+2021至今  儿童青少年健康，学生常见病监测，未成年近视防控。
 
 **定风波** 
 
