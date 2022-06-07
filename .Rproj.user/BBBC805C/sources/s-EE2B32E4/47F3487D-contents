@@ -7,7 +7,7 @@ news_items:
 - date: "2022-6-7"
   extra_text: 2022年1-6月.
   text:新冠疫情 应急协查专班
-- date: "2022-6-7"
+- date:"2022-6-7"
   extra_text:2021年8月-2022年1月
   link: http://www.cdctj.com.cn/jgzc/hjyjk/
   text: 环境健康与学校卫生研究所
