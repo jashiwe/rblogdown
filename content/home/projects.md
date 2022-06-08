@@ -8,7 +8,7 @@ content_type: "projects"
 section_settings:
     show_section: true
     title: ''
-    subtitle: 'Custom Subtitle: see my github for the complete list'
+    subtitle: 'Github 查看更多'
 ---
 
 home/projects.md

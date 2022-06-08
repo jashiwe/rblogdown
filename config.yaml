@@ -3,7 +3,7 @@ googleAnalytics: UA/G-123123-12
 languageCode: en-us
 enableEmoji: yes
 theme: avicenna
-title: YOUR_NAME
+title: 张献伟
 paginate: 10
 markup:
   tableOfContents:
@@ -11,4 +11,4 @@ markup:
     ordered: no
     startLevel: 1
 params:
-  name: YOUR_NAME
+  name: 张献伟

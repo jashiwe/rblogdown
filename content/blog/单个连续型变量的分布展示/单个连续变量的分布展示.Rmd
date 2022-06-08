@@ -1,0 +1,46 @@
+---
+title: "单个连续型变量的分布展示"
+author: "xianwei"
+date: "`r Sys.Date()`"
+categories: ["R"]
+tags: ["R Markdown", "plot"]
+---
+```{r}
+library(tidyverse)
+library(cowplot)
+library(ggplot2)
+library(ggsci)
+p1<-ggplot(mtcars,aes(x=1,y=qsec))+
+  geom_boxplot(fill='forestgreen')+
+  theme_classic()
+
+p2<-ggplot(mtcars,aes(x=1,y=qsec))+
+  geom_violin(fill='deeppink')+
+  theme_classic()
+
+p3<-plot_grid(p1,p2,ncol = 2,labels=c('A','B'),align = c('v','h'))
+p3
+
+```
+```{r}
+p4<-ggplot(mtcars,aes(x=factor(cyl),y=qsec,fill=factor(cyl)))+
+  geom_boxplot()+
+  theme_classic()+
+  scale_fill_lancet()+
+  theme(legend.position = c(0.8,0.8))
+
+p5<-ggplot(mtcars,aes(x=factor(cyl),y=qsec,fill=factor(cyl)))+
+  geom_violin()+
+  theme_classic()+
+  scale_fill_lancet()+
+  theme(legend.position = c(0.8,0.8))
+
+p6<-ggplot(mtcars,aes(qsec,fill=factor(cyl)))+
+  geom_density(alpha=0.5,color=NA)+
+  theme_classic()+
+  scale_fill_npg()+
+  theme(legend.position = c(0.8,0.8))
+
+plot_grid(p4,p5,p6,ncol = 3,labels = c('A','B','C'),align = "vh")
+```
+

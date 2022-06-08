@@ -8,7 +8,7 @@ content_type: "news"
 section_settings:
     show_section: true
     title: ''
-    subtitle: '履历回顾'
+    subtitle: 'Weibo 查看更多'
 ---
 
 home/news.md

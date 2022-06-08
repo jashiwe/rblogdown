@@ -1,0 +1,36 @@
+---
+title: "tidyverse命令1"
+author: "xianwei"
+date: "`r Sys.Date()`"
+categories: ["R"]
+tags: ["R Markdown", "tidyverse"]
+---
+
+1.  基本命令
+
+| 命令              | 功能                         |
+|-------------------|------------------------------|
+| mutate/add_column | create a new columm          |
+| rename            | change variable name         |
+| filter/subset     | extract certain rows         |
+| select            | select columns               |
+| group_by          | group observations by column |
+| arrange           | sort                         |
+| summarise         | calculate summary statistics |
+| recode            | recode variable values       |
+| if_else           | recode by if conditions      |
+| distinct          | remove duplicates            |
+|                   |                              |
+
+2.  进阶命令 进阶命令
+
+| 命令                   | 功能 |
+|------------------------|------|
+| contains               |      |
+| starts_with, ends_with |      |
+| matches                |      |
+| str_detect             |      |
+| strsplit               |      |
+| case_when              |      |
+| slice_max, min         |      |
+|                        |      |

@@ -1,17 +1,17 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "2017-2018年天津市18家宾馆/酒店室内空气指标监测及其从业人员健康状况"
 authors:
-- Your Full Name
-- Another Researcher
-date: "2018-09-01"
+- 张献伟
+- 陈阳
+date: "2020-01-10"
 
-publication: "Journal of Machine Learning"
+publication: "职业与健康"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    pdf: https://github.com/jashiwe
+    code: https://github.com/jashiwe
+    slides: 
+    video: 
 
 ---
 

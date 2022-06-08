@@ -8,7 +8,7 @@ content_type: 'publications'
 section_settings:
     show_section: true
     title: 'Recent Publications'
-    subtitle: 'Custom Subtitle: see my google scholar for the latest list'    
+    subtitle: 'Google scholar 查看更多'    
 ---
 
 home/publications.md

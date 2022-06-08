@@ -1,10 +1,10 @@
 ---
-title: "Quisque: Lime Trout Sheepdog"
+title: "myopia"
 
-date: "2018-05-18"
+date: "2022-06-08"
 
 links:
-    website: 'https://github.com/hadisinaee/avicenna'
-    alias: link_name_here
+    website: 'https://github.com/jashiwe'
+    alias: 
 ---
 
